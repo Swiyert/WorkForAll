@@ -44,7 +44,7 @@ const Footer = () => {
             <i className="text-2xl md:text-3xl font-bold">WorkFor</i>
             <b className="text-green-500 text-4xl">All</b>
           </span>
-          <p className="text-gray-400"> &copy; WorkForALL Global Inc. 2023</p>
+          <p className="text-gray-400"> &copy; WorkForALL Global Inc. 2025</p>
         </div>
         <ul className="flex gap-5  place-self-center">
           {socialLinks.map(({ icon, link, name }) => (
